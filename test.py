@@ -3,5 +3,5 @@ if grey:
     while (grey):
         print("GREY")
         grey += 1
-        if grey > 5000:
+        if grey > 50000:
             grey = False
